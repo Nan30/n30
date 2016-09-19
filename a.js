@@ -1,1 +1,1 @@
-alert('nandha');
+Subtab.Comments.deleteComment('6b28c32dddd03edf70df29b48f2fe23042acf79f93f757e8')
