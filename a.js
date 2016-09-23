@@ -1,1 +1,1 @@
-Customers.CustomPopup.commentDeleteConfirmation('6b28c32dddd03edfbaa6df384a43c1a40b498ee34174141d',true)
+alert("nandha");
