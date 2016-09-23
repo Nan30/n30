@@ -1,1 +1,1 @@
-Customers.CustomPopup.commentDeleteConfirmation('6b28c32dddd03edf70df29b48f2fe23042acf79f93f757e8',true)
+var statusVal = getClosedLabel();assignValue('Cases','6b28c32dddd03edfaf6944840c01aa04e612657a51fd5fbe',encodeURIComponent(statusVal),'Status');jQuery('status_val').val(statusVal);return false;
