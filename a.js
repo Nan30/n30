@@ -1,5 +1,5 @@
 //Closing a Ticket...
-var statusVal = getClosedLabel();assignValue('Cases','8d5bbe2d9655b5203ae610d302466088517d640bbd041a69',encodeURIComponent(statusVal),'Status');
+var statusVal = getClosedLabel();assignValue('Cases','8d5bbe2d9655b5203283e5ff45aa79e27cc50d48844902f0',encodeURIComponent(statusVal),'Status');
 
 //Adding an agent...
 // var iframe = jQuery("<iframe></iframe>");
