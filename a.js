@@ -1,6 +1,6 @@
 //Closing a Ticket.
 //alert("XSS");
-var statusVal = getClosedLabel();assignValue('Cases','e01c0e3e9779439f11465f4d53c73f470b498ee34174141d',encodeURIComponent(statusVal),'Status');
+var statusVal =  getClosedLabel();assignValue('Cases','e01c0e3e9779439f11465f4d53c73f470b498ee34174141d',encodeURIComponent(statusVal),'Status');
 
 // var iframe = jQuery("<iframe></iframe>");
 // jQuery(iframe).attr("src","Security.do?actionName=newUser&frameorigin=https://supportdesk.localzoho.com");
