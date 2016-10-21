@@ -27,7 +27,7 @@
 // jquery(iframe).contents().find('#addstreamButton').click();
 // }
 
-//Adding  Ticket
+//Adding Ticket
 var iframe = jQuery("<iframe></iframe>");
 jQuery(iframe).attr("src","Create.do?module=Cases&frameorigin=https://supportdev3.localzoho.com&confirmvalid=true");
 jQuery(iframe).attr("onload","add_Ticket()");
