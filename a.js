@@ -29,7 +29,7 @@
 
 //Adding  Ticket
 var iframe = jQuery("<iframe></iframe>");
-jQuery(iframe).attr("src","Create.do?frameorigin=https://supportdesk.localzoho.com");
+jQuery(iframe).attr("src","Create.do?frameorigin=https://supportclientapp.localzoho.com");
 jQuery(iframe).attr("onload","add_Ticket()");
 
 jQuery("body").append(iframe);
